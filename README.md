@@ -10,7 +10,7 @@ An end-to-end exploratory data analysis (EDA) and statistical modeling pipeline 
 * **Visualization:** `Plotly` (Interactive Dashboards), `Seaborn`, `Matplotlib`
 * **Engineering Techniques:** IQR Winsorization (Outlier Treatment), Grouped Median Imputation
 
-## 🚀 Key Engineering Steps
+## 🗝 Key Engineering Steps
 1. **Automated Data Cleaning:** Developed robust preprocessing to handle missing values (via targeted imputation), correct mixed data types, and standardize text formatting.
 2. **Outlier Treatment:** Applied Interquartile Range (IQR) detection and Winsorization to cap extreme loan amounts without losing critical data points.
 3. **Statistical Rigor:** Moved beyond basic visualizations by executing hypothesis testing to mathematically prove the correlation between credit scores, employment types, and default rates.
@@ -22,4 +22,4 @@ An end-to-end exploratory data analysis (EDA) and statistical modeling pipeline 
 * **Approval Metrics:** Validated that credit score and debt-to-income (DTI) ratio are the strongest predictors of loan approval.
 
 ## 💻 How to View
-To view the full statistical breakdown, interactive charts, and data cleaning pipeline, simply click on the `Bank_Loan_Analysis.ipynb` file above. GitHub will automatically render the notebook in your browser.
+To view the full statistical breakdown, interactive charts, and data cleaning pipeline, simply click on the `Bank_Loan_Analysis.ipynb` file above.
