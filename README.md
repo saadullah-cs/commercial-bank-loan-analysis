@@ -59,4 +59,4 @@ I am the founder and lead developer at **NexGen Builds**, specializing in automa
 
 Whether you need to clean a messy dataset, build a predictive model, or automate your lead generation, let's connect.
 * **Email:** hello@nexgenbuilds.tech
-* **LinkedIn:** (https://www.linkedin.com/in/saad-ullah-cs/)
+* **LinkedIn:** https://www.linkedin.com/in/saad-ullah-cs/
