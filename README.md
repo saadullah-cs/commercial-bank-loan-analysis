@@ -1,6 +1,6 @@
 # 🏦 Commercial Bank Loan Portfolio Analysis & Default Prediction Pipeline
 
-<img width="2225" height="1471" alt="analysis_dashboard_static" src="https://github.com/user-attachments/assets/3505e6a6-c7a1-41f3-be9e-9e79f4794cf3" />
+<img src="https://github.com/user-attachments/assets/3505e6a6-c7a1-41f3-be9e-9e79f4794cf3" width="800">
 
 *Above: High-level portfolio risk dashboard highlighting default concentrations by credit score, loan amount, and application status.*
 
@@ -22,14 +22,14 @@ An end-to-end exploratory data analysis (EDA) and statistical modeling pipeline 
 Developed robust preprocessing to handle missing values via targeted imputation, correct mixed data types, and standardize unstructured text formatting for downstream modeling.
 
 ### 2. Outlier Treatment & Variance Neutralization
-<img width="1924" height="591" alt="outlier_comparison" src="https://github.com/user-attachments/assets/8b635df6-eb0c-4933-84cf-416775bf0ae5" />
+<img width="800" height="331" alt="outlier_comparison" src="https://github.com/user-attachments/assets/8b635df6-eb0c-4933-84cf-416775bf0ae5" />
 
 *Data Engineering: Applying IQR Winsorization to right-skewed loan amounts to preserve vital records while neutralizing mathematical bias.*
 
 Instead of blindly dropping outliers (which results in a loss of valuable information), I applied Interquartile Range (IQR) detection and Winsorization to cap extreme loan amounts. This neutralizes the variance while keeping the records in the training set.
 
 ### 3. Statistical Rigor & Hypothesis Testing
-<img width="1324" height="727" alt="stat_ttest" src="https://github.com/user-attachments/assets/bee4ffa5-702b-48b3-a030-576f9d5afa7b" />
+<img width="800" height="427" alt="stat_ttest" src="https://github.com/user-attachments/assets/bee4ffa5-702b-48b3-a030-576f9d5afa7b" />
 
 *Statistical Validation: Independent T-Test proving the mathematical significance of credit scores between approved and rejected applications.*
 
@@ -39,7 +39,7 @@ Moved beyond basic visualizations by executing strict hypothesis testing to math
 
 ## 📊 Core Business Insights Extracted
 
-<img width="1744" height="877" alt="eda_heatmap_default" src="https://github.com/user-attachments/assets/1ace3a28-a5f0-4301-b1dc-d3c3b4695bd1" />
+<img width="800" height="477" alt="eda_heatmap_default" src="https://github.com/user-attachments/assets/1ace3a28-a5f0-4301-b1dc-d3c3b4695bd1" />
 
 *Multivariate Risk Analysis: Identifying high-risk lending zones across different cities and loan categories.*
 
